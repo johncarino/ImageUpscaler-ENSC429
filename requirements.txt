@@ -1,0 +1,7 @@
+# DSP enhancement + evaluation module dependencies
+numpy
+opencv-python
+scikit-image
+matplotlib
+lpips
+torch
